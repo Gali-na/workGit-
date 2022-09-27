@@ -6,6 +6,7 @@ public class task_01 {
         System.out.println(" I try to use git");
         System.out.println(" I try to use git");
         System.out.println(" I try to use java");
+        System.out.println(" Work in S01-T01");
         System.out.println(" Work in main");
     }
 }
